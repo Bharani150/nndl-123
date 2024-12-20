@@ -77,4 +77,4 @@ plt.legend()
 plt.title('Training and Validation Loss')
 
 plt.show()
-# nndl-123
+
