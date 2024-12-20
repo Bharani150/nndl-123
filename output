@@ -1,0 +1,20 @@
+Found 2000 images belonging to 2 classes.
+Found 800 images belonging to 2 classes.
+
+Epoch 1/20
+63/63 [==============================] - 25s 365ms/step - loss: 0.6950 - accuracy: 0.5180 - val_loss: 0.6834 - val_accuracy: 0.5463
+Epoch 2/20
+63/63 [==============================] - 20s 316ms/step - loss: 0.6718 - accuracy: 0.5885 - val_loss: 0.6678 - val_accuracy: 0.6000
+Epoch 3/20
+63/63 [==============================] - 20s 314ms/step - loss: 0.6540 - accuracy: 0.6260 - val_loss: 0.6425 - val_accuracy: 0.6213
+Epoch 4/20
+63/63 [==============================] - 20s 318ms/step - loss: 0.6289 - accuracy: 0.6545 - val_loss: 0.6170 - val_accuracy: 0.6525
+Epoch 5/20
+63/63 [==============================] - 20s 316ms/step - loss: 0.5965 - accuracy: 0.6800 - val_loss: 0.5934 - val_accuracy: 0.6675
+Epoch 6/20
+63/63 [==============================] - 20s 317ms/step - loss: 0.5735 - accuracy: 0.7025 - val_loss: 0.5631 - val_accuracy: 0.6925
+Epoch 7/20
+63/63 [==============================] - 20s 315ms/step - loss: 0.5513 - accuracy: 0.7210 - val_loss: 0.5483 - val_accuracy: 0.7038
+...
+Epoch 20/20
+63/63 [==============================] - 20s 313ms/step - loss: 0.3954 - accuracy: 0.8155 - val_loss: 0.4382 - val_accuracy: 0.8000
